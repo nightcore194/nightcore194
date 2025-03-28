@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Python(FastAPI/Django) as backend and React/Next as frontend
 - 🌱 I’m currently learning node.js and express.js
 
-### Organization 💼
+### 💼 Organization 
 [![Whiteleads-IT](https://img.shields.io/badge/Whiteleads-000?style=for-the-badge&logo=github)](https://github.com/whiteleads-it)
 [![Togobot](https://img.shields.io/badge/Togbot-000?style=for-the-badge&logo=github)](https://github.com/Togobot)
 
